@@ -1,0 +1,407 @@
+
+With Cylinder 
+     .Reset
+     .Name "cylinder30"
+     .Component "component1"
+     .Material "Silicon (loss free)"
+     .OuterRadius "123.13869834564633"
+     .InnerRadius "0"
+     .Axis "z"
+     .Zrange "0", "592.2"
+     .Xcenter "68686.0"
+     .Ycenter "225.5"
+     .Segments "0"
+     .Create
+End With
+With Cylinder 
+     .Reset
+     .Name "cylinder31"
+     .Component "component1"
+     .Material "Silicon (loss free)"
+     .OuterRadius "107.80447383924579"
+     .InnerRadius "0"
+     .Axis "z"
+     .Zrange "0", "592.2"
+     .Xcenter "69137.0"
+     .Ycenter "225.5"
+     .Segments "0"
+     .Create
+End With
+With Cylinder 
+     .Reset
+     .Name "cylinder32"
+     .Component "component1"
+     .Material "Silicon (loss free)"
+     .OuterRadius "99.91988631835042"
+     .InnerRadius "0"
+     .Axis "z"
+     .Zrange "0", "592.2"
+     .Xcenter "69588.0"
+     .Ycenter "225.5"
+     .Segments "0"
+     .Create
+End With
+With Cylinder 
+     .Reset
+     .Name "cylinder33"
+     .Component "component1"
+     .Material "Silicon (loss free)"
+     .OuterRadius "90.84173182676001"
+     .InnerRadius "0"
+     .Axis "z"
+     .Zrange "0", "592.2"
+     .Xcenter "70039.0"
+     .Ycenter "225.5"
+     .Segments "0"
+     .Create
+End With
+With Cylinder 
+     .Reset
+     .Name "cylinder34"
+     .Component "component1"
+     .Material "Silicon (loss free)"
+     .OuterRadius "147.7125322350814"
+     .InnerRadius "0"
+     .Axis "z"
+     .Zrange "0", "592.2"
+     .Xcenter "70490.0"
+     .Ycenter "225.5"
+     .Segments "0"
+     .Create
+End With
+With Cylinder 
+     .Reset
+     .Name "cylinder35"
+     .Component "component1"
+     .Material "Silicon (loss free)"
+     .OuterRadius "121.39512398461756"
+     .InnerRadius "0"
+     .Axis "z"
+     .Zrange "0", "592.2"
+     .Xcenter "70941.0"
+     .Ycenter "225.5"
+     .Segments "0"
+     .Create
+End With
+With Cylinder 
+     .Reset
+     .Name "cylinder36"
+     .Component "component1"
+     .Material "Silicon (loss free)"
+     .OuterRadius "110.20936637677084"
+     .InnerRadius "0"
+     .Axis "z"
+     .Zrange "0", "592.2"
+     .Xcenter "71392.0"
+     .Ycenter "225.5"
+     .Segments "0"
+     .Create
+End With
+With Cylinder 
+     .Reset
+     .Name "cylinder37"
+     .Component "component1"
+     .Material "Silicon (loss free)"
+     .OuterRadius "104.72874197517946"
+     .InnerRadius "0"
+     .Axis "z"
+     .Zrange "0", "592.2"
+     .Xcenter "71843.0"
+     .Ycenter "225.5"
+     .Segments "0"
+     .Create
+End With
+With Cylinder 
+     .Reset
+     .Name "cylinder38"
+     .Component "component1"
+     .Material "Silicon (loss free)"
+     .OuterRadius "100.29436363018397"
+     .InnerRadius "0"
+     .Axis "z"
+     .Zrange "0", "592.2"
+     .Xcenter "72294.0"
+     .Ycenter "225.5"
+     .Segments "0"
+     .Create
+End With
+With Cylinder 
+     .Reset
+     .Name "cylinder39"
+     .Component "component1"
+     .Material "Silicon (loss free)"
+     .OuterRadius "96.32728602968831"
+     .InnerRadius "0"
+     .Axis "z"
+     .Zrange "0", "592.2"
+     .Xcenter "72745.0"
+     .Ycenter "225.5"
+     .Segments "0"
+     .Create
+End With
+With Cylinder 
+     .Reset
+     .Name "cylinder40"
+     .Component "component1"
+     .Material "Silicon (loss free)"
+     .OuterRadius "92.1635203299897"
+     .InnerRadius "0"
+     .Axis "z"
+     .Zrange "0", "592.2"
+     .Xcenter "73196.0"
+     .Ycenter "225.5"
+     .Segments "0"
+     .Create
+End With
+With Cylinder 
+     .Reset
+     .Name "cylinder41"
+     .Component "component1"
+     .Material "Silicon (loss free)"
+     .OuterRadius "87.11378425807978"
+     .InnerRadius "0"
+     .Axis "z"
+     .Zrange "0", "592.2"
+     .Xcenter "73647.0"
+     .Ycenter "225.5"
+     .Segments "0"
+     .Create
+End With
+With Cylinder 
+     .Reset
+     .Name "cylinder42"
+     .Component "component1"
+     .Material "Silicon (loss free)"
+     .OuterRadius "81.61260050322294"
+     .InnerRadius "0"
+     .Axis "z"
+     .Zrange "0", "592.2"
+     .Xcenter "74098.0"
+     .Ycenter "225.5"
+     .Segments "0"
+     .Create
+End With
+With Cylinder 
+     .Reset
+     .Name "cylinder43"
+     .Component "component1"
+     .Material "Silicon (loss free)"
+     .OuterRadius "77.20062591758739"
+     .InnerRadius "0"
+     .Axis "z"
+     .Zrange "0", "592.2"
+     .Xcenter "74549.0"
+     .Ycenter "225.5"
+     .Segments "0"
+     .Create
+End With
+With Cylinder 
+     .Reset
+     .Name "cylinder44"
+     .Component "component1"
+     .Material "Silicon (loss free)"
+     .OuterRadius "75.50438134724631"
+     .InnerRadius "0"
+     .Axis "z"
+     .Zrange "0", "592.2"
+     .Xcenter "75000.0"
+     .Ycenter "225.5"
+     .Segments "0"
+     .Create
+End With
+With Cylinder 
+     .Reset
+     .Name "cylinder45"
+     .Component "component1"
+     .Material "Silicon (loss free)"
+     .OuterRadius "77.20062591758739"
+     .InnerRadius "0"
+     .Axis "z"
+     .Zrange "0", "592.2"
+     .Xcenter "75451.0"
+     .Ycenter "225.5"
+     .Segments "0"
+     .Create
+End With
+With Cylinder 
+     .Reset
+     .Name "cylinder46"
+     .Component "component1"
+     .Material "Silicon (loss free)"
+     .OuterRadius "81.61260050322294"
+     .InnerRadius "0"
+     .Axis "z"
+     .Zrange "0", "592.2"
+     .Xcenter "75902.0"
+     .Ycenter "225.5"
+     .Segments "0"
+     .Create
+End With
+With Cylinder 
+     .Reset
+     .Name "cylinder47"
+     .Component "component1"
+     .Material "Silicon (loss free)"
+     .OuterRadius "87.11378425807978"
+     .InnerRadius "0"
+     .Axis "z"
+     .Zrange "0", "592.2"
+     .Xcenter "76353.0"
+     .Ycenter "225.5"
+     .Segments "0"
+     .Create
+End With
+With Cylinder 
+     .Reset
+     .Name "cylinder48"
+     .Component "component1"
+     .Material "Silicon (loss free)"
+     .OuterRadius "92.1635203299897"
+     .InnerRadius "0"
+     .Axis "z"
+     .Zrange "0", "592.2"
+     .Xcenter "76804.0"
+     .Ycenter "225.5"
+     .Segments "0"
+     .Create
+End With
+With Cylinder 
+     .Reset
+     .Name "cylinder49"
+     .Component "component1"
+     .Material "Silicon (loss free)"
+     .OuterRadius "96.32728602968831"
+     .InnerRadius "0"
+     .Axis "z"
+     .Zrange "0", "592.2"
+     .Xcenter "77255.0"
+     .Ycenter "225.5"
+     .Segments "0"
+     .Create
+End With
+With Cylinder 
+     .Reset
+     .Name "cylinder50"
+     .Component "component1"
+     .Material "Silicon (loss free)"
+     .OuterRadius "100.29436363018397"
+     .InnerRadius "0"
+     .Axis "z"
+     .Zrange "0", "592.2"
+     .Xcenter "77706.0"
+     .Ycenter "225.5"
+     .Segments "0"
+     .Create
+End With
+With Cylinder 
+     .Reset
+     .Name "cylinder51"
+     .Component "component1"
+     .Material "Silicon (loss free)"
+     .OuterRadius "104.72874197517946"
+     .InnerRadius "0"
+     .Axis "z"
+     .Zrange "0", "592.2"
+     .Xcenter "78157.0"
+     .Ycenter "225.5"
+     .Segments "0"
+     .Create
+End With
+With Cylinder 
+     .Reset
+     .Name "cylinder52"
+     .Component "component1"
+     .Material "Silicon (loss free)"
+     .OuterRadius "110.20936637677084"
+     .InnerRadius "0"
+     .Axis "z"
+     .Zrange "0", "592.2"
+     .Xcenter "78608.0"
+     .Ycenter "225.5"
+     .Segments "0"
+     .Create
+End With
+With Cylinder 
+     .Reset
+     .Name "cylinder53"
+     .Component "component1"
+     .Material "Silicon (loss free)"
+     .OuterRadius "121.39512398461756"
+     .InnerRadius "0"
+     .Axis "z"
+     .Zrange "0", "592.2"
+     .Xcenter "79059.0"
+     .Ycenter "225.5"
+     .Segments "0"
+     .Create
+End With
+With Cylinder 
+     .Reset
+     .Name "cylinder54"
+     .Component "component1"
+     .Material "Silicon (loss free)"
+     .OuterRadius "147.7125322350814"
+     .InnerRadius "0"
+     .Axis "z"
+     .Zrange "0", "592.2"
+     .Xcenter "79510.0"
+     .Ycenter "225.5"
+     .Segments "0"
+     .Create
+End With
+With Cylinder 
+     .Reset
+     .Name "cylinder55"
+     .Component "component1"
+     .Material "Silicon (loss free)"
+     .OuterRadius "90.84173182676001"
+     .InnerRadius "0"
+     .Axis "z"
+     .Zrange "0", "592.2"
+     .Xcenter "79961.0"
+     .Ycenter "225.5"
+     .Segments "0"
+     .Create
+End With
+With Cylinder 
+     .Reset
+     .Name "cylinder56"
+     .Component "component1"
+     .Material "Silicon (loss free)"
+     .OuterRadius "99.91988631835042"
+     .InnerRadius "0"
+     .Axis "z"
+     .Zrange "0", "592.2"
+     .Xcenter "80412.0"
+     .Ycenter "225.5"
+     .Segments "0"
+     .Create
+End With
+With Cylinder 
+     .Reset
+     .Name "cylinder57"
+     .Component "component1"
+     .Material "Silicon (loss free)"
+     .OuterRadius "107.80447383924579"
+     .InnerRadius "0"
+     .Axis "z"
+     .Zrange "0", "592.2"
+     .Xcenter "80863.0"
+     .Ycenter "225.5"
+     .Segments "0"
+     .Create
+End With
+With Cylinder 
+     .Reset
+     .Name "cylinder58"
+     .Component "component1"
+     .Material "Silicon (loss free)"
+     .OuterRadius "123.13869834564633"
+     .InnerRadius "0"
+     .Axis "z"
+     .Zrange "0", "592.2"
+     .Xcenter "81314.0"
+     .Ycenter "225.5"
+     .Segments "0"
+     .Create
+End With
